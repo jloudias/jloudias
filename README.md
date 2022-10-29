@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jorge Dias.
-- 👀 I’m interested in Web Development and Excel VBA.
+- 👀 I’m interested in Web Development and VBA.
 - 🌱 I’m currently learning Laravel.
 
 <!---
